@@ -1,1 +1,1 @@
-# ra-router-crud
+# ra-router-crud [![Build status](https://ci.appveyor.com/api/projects/status/e9ed0kqs4jpadh03?svg=true)](https://ci.appveyor.com/project/barsich/ra-router-crud)
